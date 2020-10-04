@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+---
+
+<img align="left" alt="My Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=dadowl&show_icons=true&hide_border=true" />
+
 <!--
 **dadowl/dadowl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
