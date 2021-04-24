@@ -1,9 +1,29 @@
-### Hi there 👋
+## Hi there 👋
+
+Меня зовут Артем!
+
+Занимаюсь разработкой плагинов для серверов Minecraft, разработкой сайтов(бэк и фронт).
+
+---
+
+### Социалочки:
+* [ВиКей](https://vk.com/fayence)
+* [Твиттер](https://twitter.com/fayence_)
+* [Телегрум](https://t.me/fayence/)
+
+---
+
+### Мой стэк:
+* HTML+CSS+JS
+* PHP
+* SQL
+* Java + a little Kotlin
 
 ---
 
 ![](https://github-readme-stats.vercel.app/api?username=dadowl&show_icons=true&theme=dark&count_private=true&hide_title=true&include_all_commits=true&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dadowl&theme=dark&langs_count=10&layout=compact&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dadowl&theme=dark&langs_count=10&layout=compact&hide_border=true&hide_title=true)
+
 
 <!--
 **dadowl/dadowl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
