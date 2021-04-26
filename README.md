@@ -18,6 +18,8 @@
 * PHP
 * SQL
 * Java + a little Kotlin
+* C++ + QT
+* C#
 
 ---
 
