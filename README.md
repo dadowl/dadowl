@@ -26,7 +26,7 @@
 ### Стата:
 
 ![](https://github-readme-stats.vercel.app/api?username=dadowl&show_icons=true&theme=dark&count_private=true&hide_title=true&include_all_commits=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dadowl&theme=dark&langs_count=10&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dadowl&theme=dark&langs_count=10&layout=compact&count_private=true&include_all_commits=true)
 
 
 <!--
