@@ -1,9 +1,9 @@
 ## Hi there 👋
-
+<!-- 
 Basically I have three directions:
 * web frontend;
 * web backend;
-* java/kotlin.
+* java/kotlin. -->
 
 I am engaged in the development of custom sites, plugins for Minecraft, projects in Java or Kotlin and much more.
 
