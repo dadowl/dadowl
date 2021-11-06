@@ -1,25 +1,20 @@
 ## Hi there 👋
-<!-- 
-Basically I have three directions:
-* web frontend;
-* web backend;
-* java/kotlin. -->
 
 I am engaged in the development of custom sites, plugins for Minecraft, projects in Java or Kotlin and much more.
 
 ---
 
-### Stack:
-* HTML+CSS+JS
-* PHP
-* SQL
-* Java + Kotlin
-* C++ + QT
-* C#
+### 💻 Stack:
+* HTML+CSS+JS;
+* PHP, Laravel;
+* SQL, MySQL;
+* Java, Kotlin;
+* C++, C#;
+* Linux administration.
 
 ---
 
-### Social networks:
+### 📱 Social networks:
 * [TG](https://t.me/fayence/)
 * [TG channel](https://t.me/dadowldev)
 * [Twitter](https://twitter.com/fayence_)
