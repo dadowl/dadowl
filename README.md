@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-⚡Developer from Siberia!
-
 Basically I have three directions:
 * web frontend;
 * web backend;
