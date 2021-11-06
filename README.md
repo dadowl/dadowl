@@ -5,11 +5,11 @@ I am engaged in the development of custom sites, plugins for Minecraft, projects
 ---
 
 ### 💻 Stack:
-* HTML+CSS+JS;
-* PHP, Laravel;
+* HTML, CSS/SCSS, JS;
+* PHP, Laravel, Yii2;
 * SQL, MySQL;
 * Java, Kotlin;
-* C++, C#;
+* C++, C#, QT;
 * Linux administration.
 
 ---
