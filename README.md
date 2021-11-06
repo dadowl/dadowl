@@ -1,32 +1,38 @@
 ## Hi there 👋
 
-Меня зовут Артем!
+⚡Developer from Siberia!
 
-Занимаюсь разработкой плагинов для серверов Minecraft, разработкой сайтов(бэк и фронт).
+Basically I have three directions:
+* web frontend;
+* web backend;
+* java/kotlin.
 
----
-
-### Социалочки:
-* [ВиКей](https://vk.com/fayence)
-* [Твиттер](https://twitter.com/fayence_)
-* [Телегрум](https://t.me/fayence/)
+I am engaged in the development of custom sites, plugins for Minecraft, projects in Java or Kotlin and much more.
 
 ---
 
-### Мой стэк:
+### Stack:
 * HTML+CSS+JS
 * PHP
 * SQL
-* Java + a little Kotlin
+* Java + Kotlin
 * C++ + QT
 * C#
 
 ---
 
-### Стата:
+### Social networks:
+* [TG](https://t.me/fayence/)
+* [TG channel](https://t.me/dadowldev)
+* [Twitter](https://twitter.com/fayence_)
+* [VK](https://vk.com/fayence)
+
+<!-- --- -->
+
+<!-- ### Стата:
 
 ![](https://github-readme-stats.vercel.app/api?username=dadowl&show_icons=true&theme=dark&count_private=true&hide_title=true&include_all_commits=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dadowl&theme=dark&langs_count=10&layout=compact&count_private=true&include_all_commits=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dadowl&theme=dark&langs_count=10&layout=compact&count_private=true&include_all_commits=true) -->
 
 
 <!--
