@@ -20,7 +20,9 @@ I am engaged in the development of custom sites, plugins for Minecraft, projects
 * [Twitter](https://twitter.com/fayence_)
 * [VK](https://vk.com/fayence)
 
-<!-- --- -->
+---
+
+<p align="left"><img src="https://komarev.com/ghpvc/?username=dadowl&label=Profile%20views&color=0e75b6&style=flat" alt="dadowl" /></p>
 
 <!-- ### Стата:
 
