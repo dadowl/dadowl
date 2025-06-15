@@ -17,8 +17,7 @@ I am engaged in the development of custom sites, plugins for Minecraft, projects
 ### 📱 Social networks:
 * [TG](https://t.me/fayence/)
 * [TG channel](https://t.me/dadowldev)
-* [Twitter](https://twitter.com/fayence_)
-* [VK](https://vk.com/fayence)
+* [VK](https://vk.com/dadowl)
 
 ---
 
